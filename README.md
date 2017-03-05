@@ -1,6 +1,6 @@
 ## Synopsis
 
-This is i simple script that when you play a multimedia file in vlc, skype puts the current call on mute. Only 15 lines of code!
+This is a simple script that when you play a multimedia file in vlc, skype puts the current call on mute. Only 15 lines of code!
 
 ## Motivation
 
