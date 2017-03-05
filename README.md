@@ -4,7 +4,7 @@ This is a simple script that when you play a multimedia file in vlc, skype puts 
 
 ## Motivation
 
-Many times with my friends we leave skype open and we do our work, but I need to play a movie file or listen to a song without interruption. So I made this AppleScript that automatically understands when you play/pause a multimedia file in VLC and toggle's mute on/of the current call.
+Many times with my friends we leave skype open and we do our work, but I need to play a movie file or listen to a song without interruption. So I made this AppleScript that automatically understands when you play/pause a multimedia file in VLC and toggle's mute on/off the current call.
 
 ## Installation
 
